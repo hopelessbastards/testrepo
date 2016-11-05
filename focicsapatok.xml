@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<focicsapatok>
+	<csapat csid="cs1">
+		<nev>Arsenal</nev>
+		<nemzetiseg>Angol</nemzetiseg>
+		<csapatertek>12000000</csapatertek>
+		<vezetoeddzo>Wenger</vezetoeddzo>
+	</csapat>
+	<csapat csid="cs2">
+		<nev>Chelsea</nev>
+		<nemzetiseg>Angol</nemzetiseg>
+		<csapatertek>500</csapatertek>
+		<vezetoeddzo>Conte</vezetoeddzo>
+	</csapat>
+	<csapat csid="cs3">
+		<nev>Atletico Madrid</nev>
+		<nemzetiseg>Spanyol</nemzetiseg>
+		<csapatertek>2000000000</csapatertek>
+		<vezetoeddzo>Simeone</vezetoeddzo>
+	</csapat>
+</focicsapatok>
